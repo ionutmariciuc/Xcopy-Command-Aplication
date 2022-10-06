@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>/w     Displays the following message and waits for your response before starting to copy files: Press any key to begin copying file(s)
+/p      Prompts you to confirm whether you want to create each destination file.
+/c       Ignores errors.
+/v       Verifies each file as it is written to the destination file to make sure that the destination files are identical to the source files.
+/q       Suppresses the display of xcopy messages.
+/f        Displays source and destination file names while copying.
+/l        Displays a list of files that are to be copied.
+/g      Creates decrypted Destination files when the destination does not support encryption.
+/d [:MM-DD-YYYY] Copies source files changed on or after the specified date only. If you do not include a MM-DD-YYYY value, xcopy copies all Source files that are newer than existing Destination files. This command-line option allows you to update files that have changed.
+/u      Copies files from Source that exist on Destination only.
+/i        If Source is a directory or contains wildcards and Destination does not exist, xcopy assumes Destination specifies a directory name and creates a new directory. Then, xcopy copies all specified files into the new directory. By default, xcopy prompts you to specify whether Destination is a file or a directory.
+/s       Copies directories and subdirectories, unless they are empty. If you omit /s, xcopy works within a single directory.
+/e      Copies all subdirectories, even if they are empty. Use /e with the /s and /t command-line options.
+/t       Copies the subdirectory structure (that is, the tree) only, not files. To copy empty directories, you must include the /e command-line option.
+/k      Copies files and retains the read-only attribute on Destination files if present on the Source files. By default, xcopy removes the read-only attribute.
+/r       Copies read-only files.
+/h      Copies files with hidden and system file attributes. By default, xcopy does not copy hidden or system files
+/a      Copies only Source files that have their archive file attributes set. /a does not modify the archive file attribute of the source file. For information about how to set the archive file attribute by using attrib, see Additional References.
+/m     Copies Source files that have their archive file attributes set. Unlike /a, /m turns off archive file attributes in the files that are specified in the source. For information about how to set the archive file attribute by using attrib, see Additional References.
+/n      Creates copies by using the NTFS short file or directory names. /n is required when you copy files or directories from an NTFS volume to a FAT volume or when the FAT file system naming convention (that is, 8.3 characters) is required on the Destination file system. The Destination file system can be FAT or NTFS.
+/o      Copies file ownership and discretionary access control list (DACL) information.
+/x      Copies file audit settings and system access control list (SACL) information (implies /o).
+/exclude:FileName1[+[FileName2]][+[FileName3]( )] Specifies a list of files. At least one file must be specified. Each file will contain search strings with each string on a separate line in the file.
+When any of the strings match any part of the absolute path of the file to be copied, that file will be excluded from being copied. For example, specifying the string obj will exclude all files underneath the directory obj or all files with the .obj extension.
+/y      Suppresses prompting to confirm that you want to overwrite an existing destination file.
+/-y    Prompts to confirm that you want to overwrite an existing destination file.
+/z      Copies over a network in restartable mode.
+/b     Copies the symbolic link instead of the files. This parameter was introduced in Windows Vista®.
+/j      Copies files without buffering. Recommended for very large files. This parameter was added in Windows Server 2008 R2.
+/?     Displays help at the command prompt.</value>
+  </data>
+</root>

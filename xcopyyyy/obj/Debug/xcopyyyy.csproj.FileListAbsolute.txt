@@ -1,0 +1,43 @@
+C:\Users\uiv00380\source\repos\xcopyyyy\xcopyyyy\bin\Debug\xcopyyyy.exe.config
+C:\Users\uiv00380\source\repos\xcopyyyy\xcopyyyy\bin\Debug\xcopyyyy.exe
+C:\Users\uiv00380\source\repos\xcopyyyy\xcopyyyy\bin\Debug\xcopyyyy.pdb
+C:\Users\uiv00380\source\repos\xcopyyyy\xcopyyyy\obj\Debug\xcopyyyy.csprojAssemblyReference.cache
+C:\Users\uiv00380\source\repos\xcopyyyy\xcopyyyy\obj\Debug\xcopyyyy.Properties.Resources.resources
+C:\Users\uiv00380\source\repos\xcopyyyy\xcopyyyy\obj\Debug\xcopyyyy.csproj.GenerateResource.cache
+C:\Users\uiv00380\source\repos\xcopyyyy\xcopyyyy\obj\Debug\xcopyyyy.csproj.CoreCompileInputs.cache
+C:\Users\uiv00380\source\repos\xcopyyyy\xcopyyyy\obj\Debug\xcopyyyy.exe
+C:\Users\uiv00380\source\repos\xcopyyyy\xcopyyyy\obj\Debug\xcopyyyy.pdb
+C:\Users\uiv00380\source\repos\xcopyyyy\xcopyyyy\obj\Debug\xcopyyyy.Form1.resources
+C:\Users\uiv00316\OneDrive - Vitesco Technologies\Desktop\XCopy\xcopyyyy\xcopyyyy\bin\Debug\xcopyyyy.exe.config
+C:\Users\uiv00316\OneDrive - Vitesco Technologies\Desktop\XCopy\xcopyyyy\xcopyyyy\bin\Debug\xcopyyyy.exe
+C:\Users\uiv00316\OneDrive - Vitesco Technologies\Desktop\XCopy\xcopyyyy\xcopyyyy\bin\Debug\xcopyyyy.pdb
+C:\Users\uiv00316\OneDrive - Vitesco Technologies\Desktop\XCopy\xcopyyyy\xcopyyyy\obj\Debug\xcopyyyy.csprojAssemblyReference.cache
+C:\Users\uiv00316\OneDrive - Vitesco Technologies\Desktop\XCopy\xcopyyyy\xcopyyyy\obj\Debug\xcopyyyy.Form1.resources
+C:\Users\uiv00316\OneDrive - Vitesco Technologies\Desktop\XCopy\xcopyyyy\xcopyyyy\obj\Debug\xcopyyyy.Form2.resources
+C:\Users\uiv00316\OneDrive - Vitesco Technologies\Desktop\XCopy\xcopyyyy\xcopyyyy\obj\Debug\xcopyyyy.Properties.Resources.resources
+C:\Users\uiv00316\OneDrive - Vitesco Technologies\Desktop\XCopy\xcopyyyy\xcopyyyy\obj\Debug\xcopyyyy.csproj.GenerateResource.cache
+C:\Users\uiv00316\OneDrive - Vitesco Technologies\Desktop\XCopy\xcopyyyy\xcopyyyy\obj\Debug\xcopyyyy.csproj.CoreCompileInputs.cache
+C:\Users\uiv00316\OneDrive - Vitesco Technologies\Desktop\XCopy\xcopyyyy\xcopyyyy\obj\Debug\xcopyyyy.exe
+C:\Users\uiv00316\OneDrive - Vitesco Technologies\Desktop\XCopy\xcopyyyy\xcopyyyy\obj\Debug\xcopyyyy.pdb
+C:\Users\uiv00380\OneDrive - Vitesco Technologies\Desktop\xcopyyyy\xcopyyyy\bin\Debug\xcopyyyy.exe.config
+C:\Users\uiv00380\OneDrive - Vitesco Technologies\Desktop\xcopyyyy\xcopyyyy\bin\Debug\xcopyyyy.exe
+C:\Users\uiv00380\OneDrive - Vitesco Technologies\Desktop\xcopyyyy\xcopyyyy\bin\Debug\xcopyyyy.pdb
+C:\Users\uiv00380\OneDrive - Vitesco Technologies\Desktop\xcopyyyy\xcopyyyy\obj\Debug\xcopyyyy.csprojAssemblyReference.cache
+C:\Users\uiv00380\OneDrive - Vitesco Technologies\Desktop\xcopyyyy\xcopyyyy\obj\Debug\xcopyyyy.Form1.resources
+C:\Users\uiv00380\OneDrive - Vitesco Technologies\Desktop\xcopyyyy\xcopyyyy\obj\Debug\xcopyyyy.Form2.resources
+C:\Users\uiv00380\OneDrive - Vitesco Technologies\Desktop\xcopyyyy\xcopyyyy\obj\Debug\xcopyyyy.Properties.Resources.resources
+C:\Users\uiv00380\OneDrive - Vitesco Technologies\Desktop\xcopyyyy\xcopyyyy\obj\Debug\xcopyyyy.csproj.GenerateResource.cache
+C:\Users\uiv00380\OneDrive - Vitesco Technologies\Desktop\xcopyyyy\xcopyyyy\obj\Debug\xcopyyyy.csproj.CoreCompileInputs.cache
+C:\Users\uiv00380\OneDrive - Vitesco Technologies\Desktop\xcopyyyy\xcopyyyy\obj\Debug\xcopyyyy.exe
+C:\Users\uiv00380\OneDrive - Vitesco Technologies\Desktop\xcopyyyy\xcopyyyy\obj\Debug\xcopyyyy.pdb
+C:\Users\uiv00380\OneDrive - Vitesco Technologies\Documents\XCOPY\xcopyyyy\xcopyyyy\bin\Debug\xcopyyyy.exe.config
+C:\Users\uiv00380\OneDrive - Vitesco Technologies\Documents\XCOPY\xcopyyyy\xcopyyyy\bin\Debug\xcopyyyy.exe
+C:\Users\uiv00380\OneDrive - Vitesco Technologies\Documents\XCOPY\xcopyyyy\xcopyyyy\bin\Debug\xcopyyyy.pdb
+C:\Users\uiv00380\OneDrive - Vitesco Technologies\Documents\XCOPY\xcopyyyy\xcopyyyy\obj\Debug\xcopyyyy.csprojAssemblyReference.cache
+C:\Users\uiv00380\OneDrive - Vitesco Technologies\Documents\XCOPY\xcopyyyy\xcopyyyy\obj\Debug\xcopyyyy.Form1.resources
+C:\Users\uiv00380\OneDrive - Vitesco Technologies\Documents\XCOPY\xcopyyyy\xcopyyyy\obj\Debug\xcopyyyy.Form2.resources
+C:\Users\uiv00380\OneDrive - Vitesco Technologies\Documents\XCOPY\xcopyyyy\xcopyyyy\obj\Debug\xcopyyyy.Properties.Resources.resources
+C:\Users\uiv00380\OneDrive - Vitesco Technologies\Documents\XCOPY\xcopyyyy\xcopyyyy\obj\Debug\xcopyyyy.csproj.GenerateResource.cache
+C:\Users\uiv00380\OneDrive - Vitesco Technologies\Documents\XCOPY\xcopyyyy\xcopyyyy\obj\Debug\xcopyyyy.csproj.CoreCompileInputs.cache
+C:\Users\uiv00380\OneDrive - Vitesco Technologies\Documents\XCOPY\xcopyyyy\xcopyyyy\obj\Debug\xcopyyyy.exe
+C:\Users\uiv00380\OneDrive - Vitesco Technologies\Documents\XCOPY\xcopyyyy\xcopyyyy\obj\Debug\xcopyyyy.pdb
